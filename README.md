@@ -14,3 +14,4 @@ test ionic plugins
 # How to run this app
 * ionic platform ios/android
 * ionic build ios/android
+* C:\Users\wpguo\AppData\Roaming\npm\ionic.cmd run android
